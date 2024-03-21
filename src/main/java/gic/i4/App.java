@@ -8,7 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "I4A are too many." );
-        System.out.println( "I4A archiving the artifact." );
+        System.out.println( "Hello Jenkins" );
     }
 }
